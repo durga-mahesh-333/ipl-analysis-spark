@@ -4,22 +4,6 @@ import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 object StrikeRate {
 
-  val BALL = 0;
-  val INNINGS = 1;
-  val DELIVERY = 2;
-  val BATTING_TEAM = 3;
-  val STRIKER = 4;
-  val NON_STRIKER = 5;
-  val BOWLER = 6;
-  val RUNS_IN_THAT_DELIEVRY = 7;
-  val EXTRAS = 8;
-  val DISMISSAL_TYPE = 9;
-  val DISMISSED_PLAYER = 10;
-  val TEAM_1 = 11;
-  val TEAM_2 = 12;
-  val DATE = 13;
-  val SEASON = 14;
-
   def main(args: Array[String]): Unit = {
     val conf = new SparkConf().setAppName("WordCount");
     //create spark context object
