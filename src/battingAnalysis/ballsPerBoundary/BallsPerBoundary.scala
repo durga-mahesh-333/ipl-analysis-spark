@@ -33,8 +33,9 @@ object BallsPerBoundary {
   var joinedData = batsmanBoundaries.join(batsmanBalls).join(batsmenRuns);
   
   //getting output as (bastman , Balls take to score baoundary) in descending order with average upto two decimals
+  //r._2._1._2 = balls , r._2._1._1 = boundariesr._2._1._1
   var resultData = joinedData.coalesce(1).map(r=> (r._1,    ((((r._2._1._2/r._2._1._1)* 100).toInt).toDouble / 100   )  ) ).sortBy(r => r._2, ascending = true);
 
-  //    resultData.foreach(println);
-  //    resultData.saveAsTextFile("/user/output/spark/battingAVerage");
+  //    resultData.foreach(println); ----> to view result
+  //    resultData.saveAsTextFile("/user/output/spark/battingAVerage"); ----> to save result
 }
