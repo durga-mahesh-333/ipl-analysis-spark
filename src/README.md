@@ -1,4 +1,0 @@
-# ipl-analysis-spark
-
-
-
