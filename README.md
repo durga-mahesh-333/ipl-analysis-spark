@@ -14,5 +14,4 @@ iv. Running Between wickets<br>
 All the above parameter are caluclated and analysed Using <b>Spark core on scala</b> based on historical ball by ball data available from year 2008 (start of IPL Season 1) to 2020 (IPL Season 13). 
 
 <b>resources</b> Folder contains IPL ball by ball dataSheet.<br>
-<b>src</b> Folder contains MapReduce programs written for analysis of particular parameter.<br>
-<b>lib</b> Folder contains lib required to run programs written in src folder.<br>
+<b>src</b> Folder contains <b>spark scala</b> programs written for analysis of particular parameter.<br>
