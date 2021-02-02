@@ -15,3 +15,10 @@ All the above parameter are caluclated and analysed Using <b>Spark core on scala
 
 <b>resources</b> Folder contains IPL ball by ball dataSheet.<br>
 <b>src</b> Folder contains <b>spark scala</b> programs written for analysis of particular parameter.<br>
+<b>output</b> Folder contains outputs of the data analysed based on the criteria.<br>
+
+Data Source  From <a href="https://cricsheet.org/downloads/#experimental" target="_blank">CricSheet</a>.<br>
+Concept of Analysis From <a href="https://www.firstpost.com/long-reads/ipl-and-big-data-analytics-a-match-made-in-heaven-4438611.html" target="_blank">FirstPost</a></br>
+
+Above Analysis in Hadoop - <a href="https://github.com/durga-mahesh-333/ipl-analysis-hadoop" target="_blank">ipl-analysis-hadoop</a>
+
