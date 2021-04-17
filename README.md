@@ -11,6 +11,12 @@ ii. Strike Rate (Fast Scoring Ability)<br>by
 iii. Hard Hitting Ability  IPL<br>
 iv. Running Between wickets<br>
 
+
+Few Parameters to Select Bowler:<br>
+i. Bowling Average(Average Runs conceeded per wicket) <br>
+ii. Bowling Strike Rate(Average Balls bowled per wicket) <br>
+iii. Economy(Average Runs giver per an Over) <br>
+
 All the above parameter are caluclated and analysed Using <b>Spark core on scala</b> based on historical ball by ball data available from year 2008 (start of IPL Season 1) to 2020 (IPL Season 13). 
 
 <b>resources</b> Folder contains IPL ball by ball dataSheet.<br>
