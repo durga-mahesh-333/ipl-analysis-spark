@@ -61,3 +61,51 @@ If we have gone through the results , we can get best players in the considered 
   <li>SW Billings</li>
   <li>SPD Smith</li>
  </ol>
+ 
+  
+<u><b><i>Bowling Analysis Results</i></b></u><br><br>
+<b>Top Ten players in each Category</b><br><br>
+
+<b>Bowling Average : </b>
+<ol type = "i">
+  <li> K Rabada</li>
+  <li> Rashid Khan</li>
+  <li> KK Ahmed</li>
+  <li> YS Chahal</li>
+  <li> Imran Tahir</li>
+  <li> CV Varun</li>
+  <li> A Nehra</li>
+  <li> JC Archer</li>
+  <li> AJ Tye</li>
+  <li> JJ Bumrah</li>
+</ol>
+
+
+<b>Bowling Economy : </b>
+<ol type = "i">
+  <li>Rashid Khan</li>
+  <li>Washington Sundar</li>
+  <li>CV Varun</li>
+  <li>R Tewatia</li>
+  <li>R Ashwin</li>
+  <li>KH Pandya</li>
+  <li>JC Archer</li>
+  <li>Ravi Bishnoi</li>
+  <li>RD Chahar</li>
+  <li>A Mishra</li>
+</ol>
+
+<b>Bowling Strike Rate : </b>
+<ol type = "i">
+  <li>K Rabada</li>
+  <li>KK Ahmed</li>
+  <li>CR Woakes</li>
+  <li>AJ Tye</li>
+  <li>YS Chahal</li>
+  <li>A Nortje</li>
+  <li>AD Russell</li>
+  <li>Imran Tahir</li>
+  <li>A Nehra</li>
+  <li>SL Malinga</li>
+</ol>
+
